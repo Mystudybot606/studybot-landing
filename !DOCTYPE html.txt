@@ -89,7 +89,7 @@
   <!-- Replace CONFIG URL below with your actual Landbot embed link -->
   <script>
     var myLandbot = new Landbot.Livechat({
-      configUrl: 'https://storage.googleapis.com/landbot.online/v3/YOUR_BOT_ID/index.json'
+      configUrl: 'https://landbot.online/v3/H-3030293-SVBFNC31LX4UE6PP/index.html'
     });
   </script>
 </body>
